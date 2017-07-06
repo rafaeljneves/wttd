@@ -4,6 +4,7 @@ Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/rafaeljneves/wttd.svg?branch=master)](https://travis-ci.org/rafaeljneves/wttd)
 [![Code Health](https://landscape.io/github/rafaeljneves/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/rafaeljneves/wttd/master)
+[![Coverage Status](https://coveralls.io/repos/github/rafaeljneves/wttd/badge.svg?branch=master)](https://coveralls.io/github/rafaeljneves/wttd?branch=master)
 
 ## Como desenvolver ?
 
